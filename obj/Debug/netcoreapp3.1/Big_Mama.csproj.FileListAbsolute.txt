@@ -1,0 +1,13 @@
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\bin\Debug\netcoreapp3.1\Big_Mama.exe
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\bin\Debug\netcoreapp3.1\Big_Mama.deps.json
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\bin\Debug\netcoreapp3.1\Big_Mama.runtimeconfig.json
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\bin\Debug\netcoreapp3.1\Big_Mama.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\bin\Debug\netcoreapp3.1\Big_Mama.dll
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\bin\Debug\netcoreapp3.1\Big_Mama.pdb
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.AssemblyInfo.cs
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.dll
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.pdb
+C:\Users\andre\Desktop\Zealand  Datamatiker\1 Semester\TemaOpgave\UML2\Big_Mama\obj\Debug\netcoreapp3.1\Big_Mama.genruntimeconfig.cache
